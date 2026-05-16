@@ -35,11 +35,6 @@ I build production-grade eCommerce solutions on Adobe Commerce Cloud, with a foc
 
 Open-source Magento 2 modules, performance tools, and real-world solutions pulled from production work. Built to solve actual problems, not demos.
 
----
-
-# 💫 About Me:
-Hi there 👋<br><br>I'm Jainam Shah — a Magento 2 developer based in Ahmedabad, Gujarat, India.<br><br>I build production-grade eCommerce solutions on Adobe Commerce Cloud, with a focus on clean architecture, performance, and deep platform integrations. 4+ years shipping Magento 2 projects across B2B and B2C.<br>What I work with<br><br>Core<br><br>    Magento 2 / Adobe Commerce Cloud<br>    PHP · REST API · GraphQL<br>    RabbitMQ · Firebase FCM<br>    MySQL · ElasticSearch / OpenSearch<br><br>Frontend<br><br>    Hyvä Theme · Tailwind CSS · Alpine.js<br>    Knockout.js · jQuery<br><br>DevOps & Tools<br><br>    Docker · DDEV<br>    Git · Shell scripting<br>    Linux server setup & deployment<br><br>What I'm building<br><br>    magento2-custom-redirect — Lightweight Magento 2 module that recovers 404 visitors with intelligent 301 redirects. Disabled category → nearest active parent. Removed product → active category. Full multi-store & multi-website support.<br><br>What you'll find here<br><br>Open-source Magento 2 modules, performance tools, and real-world solutions pulled from production work. Built to solve actual problems, not demos.<br>A few things I believe<br><br>    Clean code > clever code<br>    Every 404 is a lost customer — handle it<br>    Performance is a feature, not an afterthought<br>    Real-world problems deserve real solutions, not over-engineered ones<br><br>Get in touch<br><br>    📍 Ahmedabad, Gujarat, India<br>    💼 LinkedIn<br>    📧 jainamshah2289@gmail.com<br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jainamdeveloper/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainamshah2289@gmail.com) 
