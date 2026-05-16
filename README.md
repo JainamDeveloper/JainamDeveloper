@@ -2,7 +2,7 @@
 
 I'm **Jainam Shah** — a Magento 2 developer based in Ahmedabad, Gujarat, India.
 
-I build production-grade eCommerce solutions on Adobe Commerce Cloud, with a focus on clean architecture, performance, and deep platform integrations. 4+ years shipping Magento 2 projects across B2B and B2C.
+I build production-grade eCommerce solutions on Adobe Commerce Cloud, with a focus on clean architecture, performance, and deep platform integrations. 5+ years shipping Magento 2 projects across B2B and B2C.
 
 ---
 
