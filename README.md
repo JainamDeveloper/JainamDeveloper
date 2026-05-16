@@ -37,30 +37,28 @@ Open-source Magento 2 modules, performance tools, and real-world solutions pulle
 
 ---
 
-## A few things I believe
+# 💫 About Me:
+Hi there 👋<br><br>I'm Jainam Shah — a Magento 2 developer based in Ahmedabad, Gujarat, India.<br><br>I build production-grade eCommerce solutions on Adobe Commerce Cloud, with a focus on clean architecture, performance, and deep platform integrations. 4+ years shipping Magento 2 projects across B2B and B2C.<br>What I work with<br><br>Core<br><br>    Magento 2 / Adobe Commerce Cloud<br>    PHP · REST API · GraphQL<br>    RabbitMQ · Firebase FCM<br>    MySQL · ElasticSearch / OpenSearch<br><br>Frontend<br><br>    Hyvä Theme · Tailwind CSS · Alpine.js<br>    Knockout.js · jQuery<br><br>DevOps & Tools<br><br>    Docker · DDEV<br>    Git · Shell scripting<br>    Linux server setup & deployment<br><br>What I'm building<br><br>    magento2-custom-redirect — Lightweight Magento 2 module that recovers 404 visitors with intelligent 301 redirects. Disabled category → nearest active parent. Removed product → active category. Full multi-store & multi-website support.<br><br>What you'll find here<br><br>Open-source Magento 2 modules, performance tools, and real-world solutions pulled from production work. Built to solve actual problems, not demos.<br>A few things I believe<br><br>    Clean code > clever code<br>    Every 404 is a lost customer — handle it<br>    Performance is a feature, not an afterthought<br>    Real-world problems deserve real solutions, not over-engineered ones<br><br>Get in touch<br><br>    📍 Ahmedabad, Gujarat, India<br>    💼 LinkedIn<br>    📧 jainamshah2289@gmail.com<br>
 
-- Clean code > clever code
-- Every 404 is a lost customer — handle it
-- Performance is a feature, not an afterthought
-- Real-world problems deserve real solutions, not over-engineered ones
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jainamdeveloper/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jainamshah2289@gmail.com) 
+
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=JainamDeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=JainamDeveloper&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=JainamDeveloper&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+[![](https://komarev.com/ghpvc/?username=JainamDeveloper&icon=2&color=1)](https://visitcount.itsvg.in)
 
-## Get in touch
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jainam-shah@ptyes) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/ncp/payment/W2A9CEPGEQCEW) 
 
-- 📍 Ahmedabad, Gujarat, India
-- 💼 [LinkedIn](https://www.linkedin.com/in/jainam-shah-0b41a9158)
-- 📧 jainamshah2289@gmail.com
-
----
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Magento%202-EE672F?style=for-the-badge&logo=magento&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
